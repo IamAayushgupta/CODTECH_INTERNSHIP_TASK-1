@@ -1,14 +1,14 @@
-Name:Aayush gupta
+Name: Aayush gupta
 
-Company:CODTECH IT Solutions
+Company: CODTECH IT Solutions
 
-ID::CT12DS1423
+ID: CT12DS1423
 
-Domain:Java programming
+Domain: Java programming
 
-Duration:june to july 2024
+Duration: june to july 2024
 
-Mentor:Sravani gouni
+Mentor: Sravani gouni
 
   -: Project Overview :-
   
