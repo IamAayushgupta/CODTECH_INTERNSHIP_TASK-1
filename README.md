@@ -1,8 +1,13 @@
 Name:Aayush gupta
+
 Company:CODTECH IT Solutions
+
 ID::CT12DS1423
+
 Domain:Java programming
+
 Duration:june to july 2024
+
 Mentor:Sravani gouni
 
   -: Project Overview :-
@@ -137,4 +142,3 @@ Requirements Gathering:
 
 
 
-By following this structure and utilizing the described technologies and processes, the Inventory Management System will effectively manage inventory operations for a store or warehouse, ensuring efficiency and accuracy in inventory tracking and reporting.
