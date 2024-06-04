@@ -8,7 +8,7 @@ Domain: Java programming
 
 Duration: june to july 2024
 
-Mentor: Sravani gouni
+Mentor: Muzzamil ahmed
 
   -: Project Overview :-
   
